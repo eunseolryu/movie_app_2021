@@ -10,7 +10,7 @@
 2. cd 폴더명으로 안으로 들어가서
 3. yarn create react-app 폴더명으로 폴더안에 리액트 폴더? 생성
 4. vscode에서 오픈
-5. [READ.me](http://read.me) 내용 삭제 후 
+5. [REA](http://read.me)DME.md 내용 삭제 후 
 
 ```jsx
 # Movie app 2021
