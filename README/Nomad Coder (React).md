@@ -32,7 +32,7 @@ React JS Fundamentals Course (2021 Update!)
 
 4번이 들어가는 곳 ㅋ
 
-![Nomad%20Coder%20(React)/1.png]Nomad%20Coder%20(React)/1.png)
+![Nomad%20Coder%20(React)/1.png](Nomad%20Coder%20(React)/1.png)
 
 # 실행시키기
 
@@ -44,7 +44,7 @@ React JS Fundamentals Course (2021 Update!)
 1. 프로젝트 상위폴더에서 git init을 실행
 2. 깃허브에서 저장소 생성 생성 할 때에는
 
-    !Nomad%20Coder%20(React)/[2.png](Nomad%20Coder%20(React)/2.png)
+    ![Nomad%20Coder%20(React)/2.png](Nomad%20Coder%20(React)/2.png)
 
 1. 생성을 하면 오른쪽 상단쯤에 보이는 링크를 복사한다.
 2. 터미널에 돌아와 git remote at  origin 복사한링크 치고 엔터
