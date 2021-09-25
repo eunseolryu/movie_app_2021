@@ -32,28 +32,28 @@ React JS Fundamentals Course (2021 Update!)
 
 4번이 들어가는 곳 ㅋ
 
-![Nomad Coder (React)/untitled.png]([Nomad Coder (React)/untitled.png)
+![1.png](Nomad%20Coder%20(React)%20a94ff06b396e480590f62c62599b0429/1.png)
 
 # 실행시키기
 
 1. yarn start 혹은 npm start로 실행시키기
 2. 중요한 것은 프로젝프 폴더 안에서 실행시켜야 한다.
 
-# 깃허브에 푸쉬
+# 깃허브에 푸쉬 하는법 (터미널 편)
 
 1. 프로젝트 상위폴더에서 git init을 실행
 2. 깃허브에서 저장소 생성 생성 할 때에는
 
-![[Nomad Coder (React)/untitled 1.png](Nomad Coder (React)/untitled 1.png)
+    ![2.png](Nomad%20Coder%20(React)%20a94ff06b396e480590f62c62599b0429/2.png)
 
 1. 생성을 하면 오른쪽 상단쯤에 보이는 링크를 복사한다.
 2. 터미널에 돌아와 git remote at  origin 복사한링크 치고 엔터
 3. git add 치고 엔터
 4. git commit -m "커밋하려는게 뭔지 설명해주는 단어나 글 적어주기"
 5. git push origin master 엔터
-6. 깃 저장소 가서 확인해보면 나의 [READ.me](http://read.me)가 업로드 되어있을 것이다.
+6. 깃 저장소 가서 확인해보면 나의 [READ](http://read.me)ME.md가 업로드 되어있을 것이다.
 
-![Nomad Coder (React)/untitled.png](Nomad Coder (React)/untitled.png)
+![1.png](Nomad%20Coder%20(React)%20a94ff06b396e480590f62c62599b0429/1%201.png)
 
 # App.js 아래 상태로 시작한다.
 
