@@ -32,7 +32,7 @@ React JS Fundamentals Course (2021 Update!)
 
 4번이 들어가는 곳 ㅋ
 
-![Untitled](Nomad%20Coder%20(React)%20341a750df9cd4fef93c8b238d09cfc44/Untitled.png)
+![Nomad Coder (React)/untitled.png]([Nomad Coder (React)/untitled.png)
 
 # 실행시키기
 
@@ -44,7 +44,7 @@ React JS Fundamentals Course (2021 Update!)
 1. 프로젝트 상위폴더에서 git init을 실행
 2. 깃허브에서 저장소 생성 생성 할 때에는
 
-![Untitled](Nomad%20Coder%20(React)%20341a750df9cd4fef93c8b238d09cfc44/Untitled%201.png)
+![[Nomad Coder (React)/untitled 1.png](Nomad Coder (React)/untitled 1.png)
 
 1. 생성을 하면 오른쪽 상단쯤에 보이는 링크를 복사한다.
 2. 터미널에 돌아와 git remote at  origin 복사한링크 치고 엔터
@@ -53,7 +53,7 @@ React JS Fundamentals Course (2021 Update!)
 5. git push origin master 엔터
 6. 깃 저장소 가서 확인해보면 나의 [READ.me](http://read.me)가 업로드 되어있을 것이다.
 
-![Untitled](Nomad%20Coder%20(React)%20341a750df9cd4fef93c8b238d09cfc44/Untitled.png)
+![Nomad Coder (React)/untitled.png](Nomad Coder (React)/untitled.png)
 
 # App.js 아래 상태로 시작한다.
 
